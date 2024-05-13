@@ -1,5 +1,9 @@
 # PowerBI Demo: Store Sales
 
+## Screenshot
+
+![Screenshot of the dashboard I created depicting store sales.](./dashboard-screenshot.png)
+
 ## Data Source
 
 The data was obtained from Microsoft's "Store Sales" PowerBI sample file: [https://github.com/microsoft/powerbi-desktop-samples/blob/main/new-power-bi-service-samples/Store%20Sales.pbix](https://github.com/microsoft/powerbi-desktop-samples/blob/main/new-power-bi-service-samples/Store%20Sales.pbix)
